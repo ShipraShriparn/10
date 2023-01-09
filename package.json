@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Ishikasaraf20/Wd201-9.git"
+    "url": "git+https://github.com/kshitijv256/todo-app-js.git"
   },
   "keywords": [],
   "lint-staged": {
@@ -21,12 +21,12 @@
       "prettier --write ."
     ]
   },
-  "author": "Ishika Saraf",
+  "author": "Kshitij Verma",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Ishikasaraf20/Wd201-9/issues"
+    "url": "https://github.com/kshitijv256/todo-app-js/issues"
   },
-  "homepage": "https://github.com/Ishikasaraf20/Wd201-9/issues#readme",
+  "homepage": "https://github.com/kshitijv256/todo-app-js#readme",
   "dependencies": {
     "bcrypt": "^5.1.0",
     "connect-ensure-login": "^0.1.1",
